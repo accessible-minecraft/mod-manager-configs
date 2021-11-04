@@ -1,23 +1,23 @@
 {
     "accessibility-plus-extended": {
-        "url": "",
-        "file-name": "controls-menu-bug-fix.json",
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/accessibility-plus-extended.json",
+        "file-name": "accessibility-plus-extended.json",
         "supported-versions": [
             1.16,
             1.17
         ]
     },
     "easy-life": {
-        "url": "",
-        "file-name": "controls-menu-bug-fix.json",
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/easy-life.json",
+        "file-name": "easy-life.json",
         "supported-versions": [
             1.16,
             1.17
         ]
     },
     "numpad-camera-controls": {
-        "url": "",
-        "file-name": "controls-menu-bug-fix.json",
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/numpad-camera-controls.json",
+        "file-name": "numpad-camera-controls.json",
         "supported-versions": [
             1.16,
             1.17
