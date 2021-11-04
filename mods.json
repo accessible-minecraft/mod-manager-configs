@@ -1,6 +1,7 @@
 {
     "accessibility-plus-extended": {
         "url": "",
+        "file-name": "controls-menu-bug-fix.json",
         "supported-versions": [
             1.16,
             1.17
@@ -8,6 +9,7 @@
     },
     "easy-life": {
         "url": "",
+        "file-name": "controls-menu-bug-fix.json",
         "supported-versions": [
             1.16,
             1.17
@@ -15,6 +17,7 @@
     },
     "numpad-camera-controls": {
         "url": "",
+        "file-name": "controls-menu-bug-fix.json",
         "supported-versions": [
             1.16,
             1.17
@@ -22,6 +25,7 @@
     },
     "controls-menu-bug-fix": {
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/controls-menu-bug-fix.json",
+        "file-name": "controls-menu-bug-fix.json",
         "supported-versions": [
             1.17
         ]
