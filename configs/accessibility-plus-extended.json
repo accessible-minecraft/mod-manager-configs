@@ -36,19 +36,9 @@
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/9a61537567c743872586b45945d8bf5db489e260/accessibility-plus-extended-1.16-discord-v1.6.4.jar"
         },
         "7": {
-            "version": "1.6.4 (curseforge version)",
-            "file-name": "accessibility-plus-extended-1.16-curseforge-v1.6.4.jar",
-            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/9a61537567c743872586b45945d8bf5db489e260/accessibility-plus-extended-1.16-curseforge-v1.6.4.jar"
-        },
-        "8": {
             "version": "1.6.6 (discord version)",
             "file-name": "accessibility-plus-extended-1.16-discord-v1.6.6.jar",
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/f764faf795d9cd2b53589369317e89cdbf638a43/accessibility-plus-extended-1.16-discord-v1.6.6.jar"
-        },
-        "9": {
-            "version": "1.6.6",
-            "file-name": "accessibility-plus-extended-1.16-curseforge-v1.6.6.jar",
-            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/f764faf795d9cd2b53589369317e89cdbf638a43/accessibility-plus-extended-1.16-curseforge-v1.6.6.jar"
         }
     },
     "1.17": {
@@ -88,19 +78,9 @@
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/9a61537567c743872586b45945d8bf5db489e260/accessibility-plus-extended-1.17-discord-v1.6.4.jar"
         },
         "7": {
-            "version": "1.6.4 (curseforge version)",
-            "file-name": "accessibility-plus-extended-1.17-curseforge-v1.6.4.jar",
-            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/9a61537567c743872586b45945d8bf5db489e260/accessibility-plus-extended-1.17-curseforge-v1.6.4.jar"
-        },
-        "8": {
             "version": "1.6.6 (discord version)",
             "file-name": "accessibility-plus-extended-1.17-discord-v1.6.6.jar",
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/f764faf795d9cd2b53589369317e89cdbf638a43/accessibility-plus-extended-1.17-discord-v1.6.6.jar"
-        },
-        "9": {
-            "version": "1.6.6 (curseforge version)",
-            "file-name": "accessibility-plus-extended-1.17-curseforge-v1.6.6.jar",
-            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/f764faf795d9cd2b53589369317e89cdbf638a43/accessibility-plus-extended-1.17-curseforge-v1.6.6.jar"
         }
     }
 }
