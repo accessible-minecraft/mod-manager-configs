@@ -1,0 +1,19 @@
+{
+    "1.17": {
+        "0": {
+            "version": "1.0.0",
+            "file-name": "controls-menu-bug-fix-v1.0.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/controls-menu-bug-fix/raw/37bdadb01063188c63947066c7a08351b5612206/controls-menu-bug-fix-v1.0.0.jar"
+        },
+        "1": {
+            "version": "1.1.0",
+            "file-name": "controls-menu-bug-fix-v1.1.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/controls-menu-bug-fix/raw/bde26a785867f672ead28867ecfa50a3e4fe1c77/controls-menu-bug-fix-v1.1.0.jar"
+        },
+        "2": {
+            "version": "1.2.0",
+            "file-name": "controls-menu-bug-fix-v1.2.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/controls-menu-bug-fix/raw/0ee014e4de39de0dbad8409848834a2db5771a73/controls-menu-bug-fix-v1.2.0.jar"
+        }
+    }
+}
