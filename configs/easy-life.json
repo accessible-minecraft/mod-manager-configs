@@ -1,16 +1,101 @@
 {
     "1.16": {
         "0": {
-            "version": "",
-            "file-name": "",
-            "download-url": ""
+            "version": "1.0.0",
+            "file-name": "easy-life-1.0.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/dc9207d31d15506bdb529e7e6993275dbeed5499/easy-life-1.0.0.jar"
+        },
+        "1": {
+            "version": "1.0.1",
+            "file-name": "easy-life-1.0.1.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/a722bbf782d44fec6373107afa1d3cf0f3bdb83e/easy-life-1.0.1.jar"
+        },
+        "2": {
+            "version": "1.0.2",
+            "file-name": "easy-life-1.0.2.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/e1d99eb4055eeb72403f02a2008bcd595affc40c/easy-life-1.0.2.jar"
+        },
+        "3": {
+            "version": "1.0.3",
+            "file-name": "easy-life-1.0.3.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/f5a9552a77941dbe1b4022ed581ad54f6d16c6ba/easy-life-1.0.3.jar"
+        },
+        "4": {
+            "version": "1.0.4",
+            "file-name": "easy-life-1.0.4.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/6e338d40d3a5737226d203e0cf097c60f47ba7bc/easy-life-1.0.4.jar"
+        },
+        "5": {
+            "version": "1.0.5",
+            "file-name": "easy-life-1.0.5.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/abfa0bba348e56860c3121176b8c34ce58e0db49/easy-life-1.0.5.jar"
+        },
+        "6": {
+            "version": "1.0.6",
+            "file-name": "easy-life-1.0.6.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/d01d2e5c320636f01729bdc22e898d8251d5c216/easy-life-1.0.6.jar"
+        },
+        "7": {
+            "version": "1.0.8",
+            "file-name": "easy-life-1.0.8.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/bef7cf3e5548296fab23623bc676ea3195cfc9f5/easy-life-1.0.8.jar"
+        },
+        "8": {
+            "version": "1.0.9",
+            "file-name": "easy-life-1.0.9.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/035b4ee2b15ec08c980ec2dd2d59cbe8d7bfdda8/easy-life-1.0.9.jar"
+        },
+        "9": {
+            "version": "1.0.10",
+            "file-name": "easy-life-1.0.10.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/2d31020b0eb1abcec16e40df304e80dfd00634eb/easy-life-1.0.10.jar"
+        },
+        "10": {
+            "version": "1.0.11",
+            "file-name": "easy-life-1.0.11.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/91fc5c1dcce236c0f8817fb1ede7bb03586dd7ac/easy-life-1.0.11.jar"
+        },
+        "11": {
+            "version": "1.3.0",
+            "file-name": "easy-life-1.16-v1.3.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c6e9d54628c531ece5014f6cca265ab26c26e9a4/missing-release-file/easy-life-1.16-v1.3.0.jar"
+        },
+        "12": {
+            "version": "1.4.0",
+            "file-name": "easy-life-1.16-v1.4.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/b5a58907ced465f5d2d32ee6a81355db623f3232/easy-life-1.16-v1.4.0.jar"
+        },
+        "13": {
+            "version": "1.4.1",
+            "file-name": "easy-life-1.16-v1.4.1.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c0daad895bfc35377a9c9bf43cff540911e5ad80/easy-life-1.16-v1.4.1.jar"
         }
     },
     "1.17": {
         "0": {
-            "version": "",
-            "file-name": "",
-            "download-url": ""
+            "version": "1.1.0",
+            "file-name": "easy-life-1.17-v1.1.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c6e9d54628c531ece5014f6cca265ab26c26e9a4/missing-release-file/easy-life-1.17-v1.1.0.jar"
+        },
+        "1": {
+            "version": "1.2.0",
+            "file-name": "easy-life-1.17-v1.2.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c6e9d54628c531ece5014f6cca265ab26c26e9a4/missing-release-file/easy-life-1.17-v1.2.0.jar"
+        },
+        "2": {
+            "version": "1.3.0",
+            "file-name": "easy-life-1.17-v1.3.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c6e9d54628c531ece5014f6cca265ab26c26e9a4/missing-release-file/easy-life-1.17-v1.3.0.jar"
+        },
+        "3": {
+            "version": "1.4.0",
+            "file-name": "easy-life-1.17-v1.4.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/b5a58907ced465f5d2d32ee6a81355db623f3232/easy-life-1.17-v1.4.0.jar"
+        },
+        "4": {
+            "version": "1.4.1",
+            "file-name": "easy-life-1.17-v1.4.1.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c0daad895bfc35377a9c9bf43cff540911e5ad80/easy-life-1.17-v1.4.1.jar"
         }
     }
 }
