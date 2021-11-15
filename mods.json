@@ -29,5 +29,12 @@
         "supported-versions": [
             1.17
         ]
+    },
+    "fabric-api":{
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/fabric-api.json",
+        "file-name": "fabric-api.json",
+        "supported-versions":[
+            1.17
+        ]
     }
 }

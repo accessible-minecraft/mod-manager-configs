@@ -1,0 +1,9 @@
+{
+    "1.17": {
+        "0": {
+            "version": "0.42.1",
+            "file-name": "fabric-api-0.42.1+1.17.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.42.1%2B1.17/fabric-api-0.42.1+1.17.jar"
+        }
+    }
+}
