@@ -30,10 +30,18 @@
             1.17
         ]
     },
-    "fabric-api":{
+    "fabric-api": {
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/fabric-api.json",
         "file-name": "fabric-api.json",
-        "supported-versions":[
+        "supported-versions": [
+            1.16,
+            1.17
+        ]
+    },
+    "PresenceFootsteps": {
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/presence-footsteps.json",
+        "file-name": "presence-footsteps.json",
+        "supported-versions": [
             1.16,
             1.17
         ]
