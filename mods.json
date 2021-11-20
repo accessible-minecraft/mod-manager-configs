@@ -1,4 +1,12 @@
 {
+    "fabric-api": {
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/fabric-api.json",
+        "file-name": "fabric-api.json",
+        "supported-versions": [
+            1.16,
+            1.17
+        ]
+    },
     "accessibility-plus-extended": {
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/accessibility-plus-extended.json",
         "file-name": "accessibility-plus-extended.json",
@@ -30,19 +38,18 @@
             1.17
         ]
     },
-    "fabric-api": {
-        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/fabric-api.json",
-        "file-name": "fabric-api.json",
-        "supported-versions": [
-            1.16,
-            1.17
-        ]
-    },
     "PresenceFootsteps": {
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/presence-footsteps.json",
         "file-name": "presence-footsteps.json",
         "supported-versions": [
             1.16,
+            1.17
+        ]
+    },
+    "soundphysics":{
+        "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/sound-physics.json",
+        "file-name":"sound-physics.json",
+        "supported-versions": [
             1.17
         ]
     }
