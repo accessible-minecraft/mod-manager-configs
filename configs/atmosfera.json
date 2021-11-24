@@ -1,0 +1,16 @@
+{
+    "1.16":{
+        "0":{
+            "version": "1.4.0",
+            "file-name": "atmosfera-1.4.0+mc1.16.5.jar",
+            "download-url": "https://github.com/Haven-King/Atmosfera/releases/download/1.4.0-mc1.16.5/atmosfera-1.4.0+mc1.16.5.jar"
+        }
+    },
+    "1.17": {
+        "0": {
+            "version": "1.4.0",
+            "file-name": "atmosfera-1.4.0+mc1.17.jar",
+            "download-url": "https://github.com/Haven-King/Atmosfera/releases/download/1.4.0-mc1.17/atmosfera-1.4.0+mc1.17.jar"
+        }
+    }
+}

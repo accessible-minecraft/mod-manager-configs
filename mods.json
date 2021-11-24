@@ -52,5 +52,13 @@
         "supported-versions": [
             1.17
         ]
+    },
+    "atmosfera":{
+        "url":"https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/atmosfera.json",
+        "file-name":"atmosfera.json",
+        "supported-versions":[
+            1.17,
+            1.16
+        ]
     }
 }
