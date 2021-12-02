@@ -4,7 +4,8 @@
         "file-name": "fabric-api.json",
         "supported-versions": [
             1.16,
-            1.17
+            1.17,
+            1.18
         ]
     },
     "accessibility-plus-extended": {
