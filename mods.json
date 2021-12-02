@@ -13,7 +13,8 @@
         "file-name": "accessibility-plus-extended.json",
         "supported-versions": [
             1.16,
-            1.17
+            1.17,
+            1.18
         ]
     },
     "easy-life": {
@@ -21,7 +22,8 @@
         "file-name": "easy-life.json",
         "supported-versions": [
             1.16,
-            1.17
+            1.17,
+            1.18
         ]
     },
     "numpad-camera-controls": {
@@ -29,7 +31,8 @@
         "file-name": "numpad-camera-controls.json",
         "supported-versions": [
             1.16,
-            1.17
+            1.17,
+            1.18
         ]
     },
     "controls-menu-bug-fix": {

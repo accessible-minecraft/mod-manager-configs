@@ -47,5 +47,12 @@
             "file-name": "numpad-camera-controls-1.17-v1.4.0.jar",
             "download-url": "https://github.com/accessible-minecraft/numpad-camera-controls/releases/download/v1.4.0/numpad-camera-controls-1.17-v1.4.0.jar"
         }
+    },
+    "1.18": {
+        "0": {
+            "version": "1.4.0",
+            "file-name": "numpad-camera-controls-1.18-v1.4.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/numpad-camera-controls/releases/download/v1.4.0/numpad-camera-controls-1.18-v1.4.0.jar"
+        }
     }
 }
