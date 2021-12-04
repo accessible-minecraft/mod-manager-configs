@@ -81,6 +81,11 @@
             "version": "1.6.6",
             "file-name": "accessibility-plus-extended-1.17-discord-v1.6.6.jar",
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/raw/f764faf795d9cd2b53589369317e89cdbf638a43/accessibility-plus-extended-1.17-discord-v1.6.6.jar"
+        },
+        "8": {
+            "version": "1.8.1-beta",
+            "file-name": "accessibility-plus-extended-1.17-v1.8.1-beta.jar",
+            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/releases/download/v1.8.0-beta/accessibility-plus-extended-1.17-v1.8.1-beta.jar"
         }
     },
     "1.18": {
