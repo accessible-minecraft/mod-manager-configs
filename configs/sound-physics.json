@@ -5,5 +5,12 @@
             "file-name": "soundphysics-2.1.0.jar",
             "download-url": "https://github.com/vlad2305m/Sound-Physics-Fabric/releases/download/2.1.0/soundphysics-2.1.0.jar"
         }
+    },
+    "1.18": {
+        "0": {
+            "version": "0.5.2",
+            "file-name": "soundphysics-0.5.2.jar",
+            "download-url": "https://github.com/vlad2305m/Sound-Physics-Fabric/releases/download/v0.5.2/soundphysics-0.5.2.jar"
+        }
     }
 }

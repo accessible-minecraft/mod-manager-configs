@@ -11,6 +11,18 @@
             "version": "r32",
             "file-name": "PresenceFootsteps-r32-1.17-rc1.jar",
             "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/r32/PresenceFootsteps-r32-1.17-rc1.jar"
+        },
+        "1": {
+            "version": "r35",
+            "file-name": "PresenceFootsteps-r35-1.17.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.3.5/PresenceFootsteps-r35-1.17.jar"
+        }
+    },
+    "1.18": {
+        "0": {
+            "version": "1.4.0",
+            "file-name": "PresenceFootsteps-1.4.0.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.4.0/PresenceFootsteps-1.4.0.jar"
         }
     }
 }

@@ -103,6 +103,11 @@
             "version": "1.5.0",
             "file-name": "easy-life-1.18-v1.5.0.jar",
             "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.0/easy-life-1.18-v1.5.0.jar"
+        },
+        "1": {
+            "version": "1.5.1",
+            "file-name": "easy-life-1.18-v1.5.1.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.1/easy-life-1.18-v1.5.1.jar"
         }
     }
 }

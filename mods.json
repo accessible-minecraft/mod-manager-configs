@@ -47,14 +47,16 @@
         "file-name": "presence-footsteps.json",
         "supported-versions": [
             1.16,
-            1.17
+            1.17,
+            1.18
         ]
     },
     "soundphysics":{
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/sound-physics.json",
         "file-name":"sound-physics.json",
         "supported-versions": [
-            1.17
+            1.17,
+            1.18
         ]
     },
     "atmosfera":{
