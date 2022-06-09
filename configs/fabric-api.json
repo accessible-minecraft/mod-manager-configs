@@ -17,6 +17,11 @@
             "version": "0.45.2",
             "file-name": "fabric-api-0.45.2+1.18.jar",
             "download-url": "https://github.com/FabricMC/fabric/releases/download/0.45.2%2B1.18/fabric-api-0.45.2+1.18.jar"
+        },
+        "2": {
+            "version": "0.55.1",
+            "file-name": "fabric-api-0.55.1+1.18.2.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.55.1%2B1.18.2/fabric-api-0.55.1+1.18.2.jar"
         }
     },
     "1.17": {
