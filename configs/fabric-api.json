@@ -1,4 +1,12 @@
 {
+    "1.19":
+    {
+        "0": {
+            "version": "0.55.3",
+            "file-name": "fabric-api-0.55.3+1.19.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.55.3%2B1.19/fabric-api-0.55.3+1.19.jar"
+        } 
+    },
     "1.18": {
         "0": {
             "version": "0.43.1",

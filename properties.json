@@ -1,6 +1,7 @@
 {
     "latest-version":2.0,
     "supported-versions":[
+        1.19,
         1.18,
         1.17,
         1.16
