@@ -23,6 +23,11 @@
             "version": "1.4.0",
             "file-name": "PresenceFootsteps-1.4.0.jar",
             "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.4.0/PresenceFootsteps-1.4.0.jar"
+        },
+        "1": {
+            "version": "1.5.0",
+            "file-name": "PresenceFootsteps-1.5.0.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.5.0/PresenceFootsteps-1.5.0.jar"
         }
     }
 }
