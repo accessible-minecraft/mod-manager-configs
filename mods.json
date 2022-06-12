@@ -42,7 +42,9 @@
         "url": "https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/controls-menu-bug-fix.json",
         "file-name": "controls-menu-bug-fix.json",
         "supported-versions": [
-            1.17
+            1.17,
+            1.18,
+            1.19
         ]
     },
     "PresenceFootsteps": {
