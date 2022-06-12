@@ -69,6 +69,11 @@
             "version": "1.4.1",
             "file-name": "easy-life-1.16-v1.4.1.jar",
             "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c0daad895bfc35377a9c9bf43cff540911e5ad80/easy-life-1.16-v1.4.1.jar"
+        },
+        "14": {
+            "version": "1.5.2",
+            "file-name": "easy-life-v1.5.2-1.16.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.2/easy-life-v1.5.2-1.16.jar"
         }
     },
     "1.17": {
@@ -96,6 +101,11 @@
             "version": "1.4.1",
             "file-name": "easy-life-1.17-v1.4.1.jar",
             "download-url": "https://github.com/accessible-minecraft/easy-life/raw/c0daad895bfc35377a9c9bf43cff540911e5ad80/easy-life-1.17-v1.4.1.jar"
+        },
+        "5": {
+            "version": "1.5.2",
+            "file-name": "easy-life-v1.5.2-1.17.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.2/easy-life-v1.5.2-1.17.jar"
         }
     },
     "1.18": {
@@ -108,6 +118,18 @@
             "version": "1.5.1",
             "file-name": "easy-life-1.18-v1.5.1.jar",
             "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.1/easy-life-1.18-v1.5.1.jar"
+        },
+        "2": {
+            "version": "1.5.2",
+            "file-name": "easy-life-v1.5.2-1.18.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.2/easy-life-v1.5.2-1.18.jar"
+        }
+    },
+    "1.19": {
+        "0": {
+            "version": "1.5.2",
+            "file-name": "easy-life-v1.5.2-1.19.jar",
+            "download-url": "https://github.com/accessible-minecraft/easy-life/releases/download/v1.5.2/easy-life-v1.5.2-1.19.jar"
         }
     }
 }
