@@ -12,8 +12,8 @@
         },
         "2": {
             "version": "1.2.0",
-            "file-name": "controls-menu-bug-fix-v1.2.0-1.17.jar",
-            "download-url": "https://github.com/accessible-minecraft/controls-menu-bug-fix/releases/download/v1.2.0/controls-menu-bug-fix-v1.2.0-1.17.jar"
+            "file-name": "controls-menu-bug-fix-v1.2.0.jar",
+            "download-url": "https://github.com/accessible-minecraft/controls-menu-bug-fix/raw/b3af8ceac838e4f56085c8a8065b7e8c9cb592bb/controls-menu-bug-fix-v1.2.0.jar"
         }
     },
     "1.18": {
