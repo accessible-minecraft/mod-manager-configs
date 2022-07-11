@@ -115,6 +115,11 @@
             "version": "1.9.1-beta",
             "file-name": "accessibility-plus-extended-v1.9.1-beta-1.19.jar",
             "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/releases/download/v1.9.1/accessibility-plus-extended-v1.9.1-beta-1.19.jar"
+        },
+        "1": {
+            "version": "1.9.1",
+            "file-name": "accessibility-plus-extended-v1.9.1+1.19.jar",
+            "download-url": "https://github.com/accessible-minecraft/accessibility-plus-extended/releases/download/v1.9.1/accessibility-plus-extended-v1.9.1+1.19.jar"
         }
     }
 }
