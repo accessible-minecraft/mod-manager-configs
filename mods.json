@@ -72,5 +72,14 @@
             1.17,
             1.16
         ]
+    },
+    "modmenu":{
+        "url":"https://raw.githubusercontent.com/accessible-minecraft/mod-manager-configs/main/configs/mod-menu.json",
+        "file-name":"mod-menu.json",
+        "supported-versions":[
+            1.17,
+            1.18,
+            1.19
+        ]
     }
 }
