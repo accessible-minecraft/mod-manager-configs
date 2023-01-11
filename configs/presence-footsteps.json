@@ -35,6 +35,31 @@
             "version": "1.6.1",
             "file-name": "PresenceFootsteps-1.6.1.jar",
             "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.6.1/PresenceFootsteps-1.6.1.jar"
+        },
+        "1": {
+            "version": "1.6.2+1.19.2",
+            "file-name": "PresenceFootsteps-1.6.2.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.6.2/PresenceFootsteps-1.6.2.jar"
+        },
+        "2": {
+            "version": "1.6.3+1.19.2",
+            "file-name": "PresenceFootsteps-1.6.3.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.6.3/PresenceFootsteps-1.6.3.jar"
+        },
+        "3": {
+            "version": "1.7.0+1.19.3",
+            "file-name": "PresenceFootsteps-1.7.0.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.7.0/PresenceFootsteps-1.7.0.jar"
+        },
+        "4": {
+            "version": "1.6.4+1.19.2",
+            "file-name": "PresenceFootsteps-1.6.4.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.6.4/PresenceFootsteps-1.6.4.jar"
+        },
+        "5": {
+            "version": "1.7.1+1.19.3",
+            "file-name": "PresenceFootsteps-1.7.1.jar",
+            "download-url": "https://github.com/Sollace/Presence-Footsteps/releases/download/1.7.1/PresenceFootsteps-1.7.1.jar"
         }
     }
 }
