@@ -30,7 +30,37 @@
             "version": "0.62.0",
             "file-name": "fabric-api-0.62.0+1.19.2.jar",
             "download-url": "https://github.com/FabricMC/fabric/releases/download/0.62.0%2B1.19.2/fabric-api-0.62.0+1.19.2.jar"
-        } 
+        },
+        "6": {
+            "version": "0.70.0+1.19.2",
+            "file-name": "fabric-api-0.70.0+1.19.2.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.70.0%2B1.19.2/fabric-api-0.70.0+1.19.2.jar"
+        },
+        "7": {
+            "version": "0.70.0+1.19.3",
+            "file-name": "fabric-api-0.70.0+1.19.3.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.70.0%2B1.19.3/fabric-api-0.70.0+1.19.3.jar"
+        },
+        "8": {
+            "version": "0.71.0+1.19.2",
+            "file-name": "fabric-api-0.71.0+1.19.2.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.71.0%2B1.19.2/fabric-api-0.71.0+1.19.2.jar"
+        },
+        "9": {
+            "version": "0.71.0+1.19.3",
+            "file-name": "fabric-api-0.71.0+1.19.3.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.71.0%2B1.19.3/fabric-api-0.71.0+1.19.3.jar"
+        },
+        "10": {
+            "version": "0.72.0+1.19.2",
+            "file-name": "fabric-api-0.72.0+1.19.2.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.72.0%2B1.19.2/fabric-api-0.72.0+1.19.2.jar"
+        },
+        "11": {
+            "version": "0.72.0+1.19.3",
+            "file-name": "fabric-api-0.72.0+1.19.3.jar",
+            "download-url": "https://github.com/FabricMC/fabric/releases/download/0.72.0%2B1.19.3/fabric-api-0.72.0+1.19.3.jar"
+        }
     },
     "1.18": {
         "0": {
